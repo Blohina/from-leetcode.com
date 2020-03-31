@@ -8,7 +8,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 
   
-##Example:##
+## Example: ##
 
 Given nums = [2, 7, 11, 15], target = 9,
 
